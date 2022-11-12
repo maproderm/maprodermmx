@@ -93,7 +93,7 @@
                 </span></h1>
                 <!--end::Title-->
                 <!--begin::Action-->
-                <a href="https://maproderm.com/" class="btn btn-primary">Ir a la Tienda</a>
+                <a href="https://maproderm.com/" class="btn btn-primary">Ir a la Tienda Oficial</a>
                 <!--end::Action-->
             </div>
             <!--end::Heading-->
