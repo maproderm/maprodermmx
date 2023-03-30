@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Social\SocialController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,3 +21,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('pages.landing');
 });
+
+
+Route::get('/siguenos',[SocialController::class,'index'])->name('social.index');

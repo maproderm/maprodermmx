@@ -131,7 +131,7 @@
                     </a>
                     <!--end::Logo image-->
                     <!--begin::Logo image-->
-                    <span class="mx-5 fs-6 fw-semibold text-gray-600 pt-1" href="LOGO 2.1.png">&copy; 2022 MaProDerm</span>
+                    <span class="mx-5 fs-6 fw-semibold text-gray-600 pt-1" href="LOGO 2.1.png">&copy; 2023 MaProDerm</span>
                     <!--end::Logo image-->
                 </div>
                 <!--end::Copyright-->
