@@ -7,13 +7,21 @@
     <div id="kt_content_container" class="container-xxl">
         <!--begin::About card-->
         <div class="card">
+            <div class="d-flex flex-center mb-5 mb-lg-15">
+                    <!--begin::Tabs-->
+                    <ul class="nav border-transparent flex-center fs-5 fw-bold">
+                        <li class="nav-item">
+                            <a class="nav-link text-gray-500 text-active-primary px-3 px-lg-6 active" href="javascript:;" data-bs-toggle="tab" data-bs-target="#kt_landing_projects_latest">Click en los íconos</a>
+                        </li>
+                    </ul>
+                    <!--end::Tabs-->
+                </div>
             <!--begin::Body-->
             <div class="card-body p-lg-17">
                 <!--begin::Team-->
                 <div class="mb-18">
                     <!--begin::Wrapper-->
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-4 gy-10">
-
                         {{-- INSTAGRAM --}}
                         <div class="col text-center mb-9">
                             <a href="https://www.instagram.com/maproderm/" target="_blank">
@@ -26,17 +34,7 @@
                             </a>
                         </div>
 
-                        {{-- FACEBOOK --}}
-                        <div class="col text-center mb-9">
-                            <a href="https://www.facebook.com/maproderm" target="_blank">
-                                <div href="www.hola.com" class="octagon mx-auto mb-2 d-flex w-150px h-150px bgi-no-repeat bgi-size-contain bgi-position-center" style="background-image:url('/metronic/assets/media/social/facebook.jpg')"></div>
-                                <div class="mb-0">
-                                    {{-- <a href="hola.com" class="text-dark fw-bolder text-hover-primary fs-3">Facebook</a> --}}
-                                    <div class="text-dark fw-bolder text-hover-primary fs-3" data-kt-countup="true" data-kt-countup-suffix="+" data-kt-countup-value="24000" >0</div>
-                                    <div class="text-muted fs-6 fw-bold">Seguidores</div>
-                                </div>
-                            </a>
-                        </div>
+
 
                         {{-- TIKTOK --}}
                         <div class="col text-center mb-9">
@@ -57,6 +55,18 @@
                                 <div class="mb-0">
                                     {{-- <a href="hola.com" class="text-dark fw-bolder text-hover-primary fs-3">Instagram</a> --}}
                                     <div class="text-dark fw-bolder text-hover-primary fs-3" data-kt-countup="true" data-kt-countup-suffix="+" data-kt-countup-value="150" >0</div>
+                                    <div class="text-muted fs-6 fw-bold">Seguidores</div>
+                                </div>
+                            </a>
+                        </div>
+
+                        {{-- FACEBOOK --}}
+                        <div class="col text-center mb-9">
+                            <a href="https://www.facebook.com/maproderm" target="_blank">
+                                <div href="www.hola.com" class="octagon mx-auto mb-2 d-flex w-150px h-150px bgi-no-repeat bgi-size-contain bgi-position-center" style="background-image:url('/metronic/assets/media/social/facebook.jpg')"></div>
+                                <div class="mb-0">
+                                    {{-- <a href="hola.com" class="text-dark fw-bolder text-hover-primary fs-3">Facebook</a> --}}
+                                    <div class="text-dark fw-bolder text-hover-primary fs-3" data-kt-countup="true" data-kt-countup-suffix="+" data-kt-countup-value="24000" >0</div>
                                     <div class="text-muted fs-6 fw-bold">Seguidores</div>
                                 </div>
                             </a>
