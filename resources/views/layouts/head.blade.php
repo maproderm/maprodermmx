@@ -13,6 +13,7 @@
 		<meta property="og:title" content="Metronic | Bootstrap HTML, VueJS, React, Angular, Asp.Net Core, Rails, Spring, Blazor, Django, Flask & Laravel Admin Dashboard Theme" />
 		<meta property="og:url" content="https://keenthemes.com/metronic" />
 		<meta property="og:site_name" content="Keenthemes | Metronic" />
+        <meta name="facebook-domain-verification" content="puhxt0cf8uw9unckmgcvt18bh2pgm8" />
 		<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
 		<link rel="shortcut icon" href="metronic/assets/media/logos/favicon.png" />
 		<!--begin::Fonts(mandatory for all pages)-->
